@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "${workspaceFolder}/ENV/bin/python"
+    "python.pythonPath": "${workspaceFolder}/ENV/bin/python",
+    "python.linting.pylintPath": "${workspaceFolder}/ENV/bin/pylint"
 }
